@@ -14,9 +14,9 @@
 //= require jquery_ujs
 //= require jquery-ui/core
 //= require jquery-ui/widget
-//= require jquery-ui/mouse
+//= require jquery-ui/widgets/mouse
 //= require jquery-ui/position
-//= require jquery-ui/resizable
+//= require jquery-ui/widgets/resizable
 //= require turbolinks
 //= require_tree .
 //= require vue
